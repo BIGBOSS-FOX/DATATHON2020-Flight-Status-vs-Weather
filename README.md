@@ -1,5 +1,7 @@
 # Data Analysis and Modelling on The Relationship between Weather and Flight Status
+
 ***Project in the finals of 2020 CHINA ONLINE DATATHON, 07/2020***
+
 **Passed the 5000-people preliminary and qualified for the finals. Data used in the finals is provided by organizers and the direction of the project was designed by myself**
 - Imported ‘weather.csv’ and ‘flight_traffic.csv’ into pandas.DataFrame
 - Analyzed and visualized raw data and performed data cleaning on abnormal and NaN values
